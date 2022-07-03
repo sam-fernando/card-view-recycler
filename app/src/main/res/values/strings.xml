@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Recycler2</string>
+
+    <string-array name="amino_acids_full_txt">
+
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+
+    </string-array>
+
+    <string-array name="amino_acids_three_letter_txt">
+
+        <item>asd</item>
+        <item>aad</item>
+        <item>qwe</item>
+        <item>edc</item>
+        <item>tgb</item>
+        <item>uhg</item>
+        <item>sec</item>
+        <item>qws</item>
+        <item>zxs</item>
+        <item>vbg</item>
+
+    </string-array>
+
+
+    <string-array name="amino_acids_one_letter_txt">
+
+        <item>Q</item>
+        <item>W</item>
+        <item>E</item>
+        <item>R</item>
+        <item>Y</item>
+        <item>H</item>
+        <item>B</item>
+        <item>D</item>
+        <item>M</item>
+        <item>K</item>
+
+    </string-array>
+
+
+
+
+
+
+</resources>
